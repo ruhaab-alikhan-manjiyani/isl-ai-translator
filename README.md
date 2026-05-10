@@ -6,7 +6,7 @@
 
 Hi, I’m Ruhaab 👋
 
-I’m currently completed my 12th through NIOS, and before getting into AI stuff, I was mostly into digital marketing, branding, content, and online campaigns. I even did a digital marketing internship after 10th, so honestly, building an AI project was completely outside my comfort zone 😭
+I currently completed my 12th through NIOS, and before getting into AI stuff, I was mostly into digital marketing, branding, content, and online campaigns. I even did a digital marketing internship after 10th, so honestly, building an AI project was completely outside my comfort zone 😭
 
 But I wanted to challenge myself and create something that actually felt useful in real life.
 
