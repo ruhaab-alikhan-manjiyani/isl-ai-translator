@@ -1,23 +1,126 @@
-# ISL AI Translator 🇮🇳
+# 🤖 ISL AI Translator 🇮🇳
 
-An AI-powered Indian Sign Language recognition system using:
+### My first AI project.
 
-- Python
-- OpenCV
-- MediaPipe
-- Machine Learning
-- Real-time gesture recognition
+### And also the last project I built before turning 18.
 
-## Features
-- Real-time webcam prediction
-- ISL gesture recognition
-- AI HUD interface
-- Multi-hand support
-- Custom gesture training
+Hi, I’m Ruhaab 👋
 
-## Tech Stack
-- Python
-- OpenCV
-- MediaPipe
-- scikit-learn
-- NumPy
+I’m currently completed my 12th through NIOS, and before getting into AI stuff, I was mostly into digital marketing, branding, content, and online campaigns. I even did a digital marketing internship after 10th, so honestly, building an AI project was completely outside my comfort zone 😭
+
+But I wanted to challenge myself and create something that actually felt useful in real life.
+
+So I built this — an AI-powered Indian Sign Language (ISL) gesture recognition system that can detect hand gestures through a webcam and predict them live using machine learning.
+
+And yes… this entire project started with me not even understanding half the terminal errors.
+
+---
+
+## ✨ Features
+
+* 🎥 Real-time webcam gesture detection
+* 🖐️ Hand landmark tracking using MediaPipe
+* 🧠 Machine Learning gesture prediction
+* 🌙 Modern AI HUD interface
+* 🇮🇳 ISL-inspired gesture recognition
+* ⚡ Live predictions on screen
+* 👀 Multi-hand detection support
+
+---
+
+## 🛠️ Built Using
+
+* Python
+* OpenCV
+* MediaPipe
+* scikit-learn
+* NumPy
+* Git & GitHub
+
+---
+
+## 📸 Preview
+
+> Adding screenshots soon 👀
+
+---
+
+## 🚀 Why I Made This
+
+I didn’t want my first AI project to be another basic calculator or random tutorial project.
+
+I wanted to build something:
+
+* interactive
+* creative
+* useful
+* slightly intimidating 
+
+This project helped me learn:
+
+* how AI models are trained
+* how datasets work
+* real-time computer vision
+* debugging for hours straight
+* and how one missing bracket can ruin your entire day
+
+But seeing the model finally recognize gestures live on screen made all of it worth it.
+
+---
+
+## 📂 Project Structure
+
+```bash id="e4tmwn"
+isl-ai-translator/
+│
+├── predict.py
+├── collect_data.py
+├── train_model.py
+├── hand_tracking.py
+├── gesture_model.pkl
+├── gesture_data.csv
+├── hand_landmarker.task
+├── requirements.txt
+├── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash id="g7psla"
+git clone https://github.com/ruhaab-alikhan-manjiyani/isl-ai-translator.git
+```
+
+Run the project:
+
+```bash id="k8fjtr"
+python predict.py
+```
+
+---
+
+## 🌱 Future Plans
+
+* Voice output
+* Sentence generation
+* Better ISL dataset
+* Website version
+* More gestures
+* Cleaner UI
+
+---
+
+## 💌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ruhaab-alikhan-manjiyani)
+
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge\&logo=gmail)](mailto:ruhaab.alikhan@gmail.com)
+
+---
+
+### built with confusion, curiosity, debugging, and approximately 47 terminal errors ✨
+
+### — Ruhaab
