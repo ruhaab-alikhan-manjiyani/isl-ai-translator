@@ -115,9 +115,7 @@ python predict.py
 
 ## 💌 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ruhaab-alikhan-manjiyani)
-
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge\&logo=gmail)](mailto:ruhaab.alikhan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ruhaab-alikhan-manjiyani)    [![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge\&logo=gmail)](mailto:ruhaab.alikhan@gmail.com)
 
 ---
 
