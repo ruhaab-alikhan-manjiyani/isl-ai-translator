@@ -1,4 +1,4 @@
-# 🤖 ISL AI Translator
+# 🤖 ISL AI Translator 
 
 ### My first AI project.
 
