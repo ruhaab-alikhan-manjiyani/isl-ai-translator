@@ -1,4 +1,4 @@
-# 🤖 ISL AI Translator 🇮🇳
+# 🤖 ISL AI Translator
 
 ### My first AI project.
 
@@ -6,13 +6,14 @@
 
 Hi, I’m Ruhaab 👋
 
-I currently completed my 12th through NIOS, and before getting into AI stuff, I was mostly into digital marketing, branding, content, and online campaigns. I even did a digital marketing internship after 10th, so honestly, building an AI project was completely outside my comfort zone 😭
+I recently completed my 12th through NIOS, and before getting into AI stuff, I was mostly into digital marketing, branding, content, and online campaigns. I even did a digital marketing internship after 10th, so honestly, building an AI project was completely outside my comfort zone 😭
 
 But I wanted to challenge myself and create something that actually felt useful in real life.
 
-So I built this — an AI-powered Indian Sign Language (ISL) gesture recognition system that can detect hand gestures through a webcam and predict them live using machine learning.
+So I built this; an AI-powered Indian Sign Language (ISL) gesture recognition system that can detect hand gestures through a webcam and predict them live using machine learning.
 
 And yes… this entire project started with me not even understanding half the terminal errors.
+ChatGPT to the rescue.. [I vibe coded this entire project]
 
 ---
 
